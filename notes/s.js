@@ -136,3 +136,16 @@
 // FROM person JOIN INTERVIEW 
 // ON person.id = interview.person_id
 // WHERE person.id = 14887 OR person.id = 16371;
+
+
+ // a database is where you can store, retrieve and manipulate data
+
+ // each column is an attribute 
+
+ // each row  is the actual data
+
+ // relational database - a database structured to recognize relations among stored items of information or a relation between 1 or more tables
+
+ // how is data stored? it is stored in tables, formed by columns and rows
+
+ // POSTGRES 
