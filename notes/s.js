@@ -1,6 +1,12 @@
 // SQL Notes Structured Query Language 
 
 
+// sql is a language which is used to interact with relational database management systems. Which is basically just a software application
+// which we can use to create and manage different databases.
+// a relational database is a database made up of tables and the relationships between tables.
+// a table is a 'grid' of data. It's made of rows and columns.
+
+
 
 // SELECT count(*)
 // FROM person;              - this is to see how many rows a table has
@@ -13,6 +19,18 @@
 
 
 // SELECT * FROM person WHERE name = 'Kinsey Erickson'           - This query to retrieve a specific person
+
+
+// Insert - create new record in a table 
+// Select - read records from a table or it can be a combination of multiple joined tables 
+// Update - update the records in a table
+// Delete - delete records in a table 
+// And - is used to string together multiple filering criteria so that the filtered results meet each and every one of the criteria
+// Or - is used to return rows that match any of the criteria
+// Limit - is to limit how many rows you want to view in the query
+// Distinct - is to filter the query so data does not appear twice
+// _ is a wildcard that means match the rest of the text; 'B_b' ; 'Bob' ; 'Bub'
+
 
 
 // A SQL query can contain:
